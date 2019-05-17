@@ -2,7 +2,7 @@
 We want to hire smart and ambitious people, therefore we prepared some recruitment challenge. It is important for us to see how you deal with this kind of task, which is very similar to what we are working on every day.
 
 # Challenge description
-
+Problem to solve: as we are fans of the game of thrones, we would like to have an application which can show the great houses of the Seven Kingdoms with a few members.
 
 
 
