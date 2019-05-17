@@ -4,8 +4,12 @@ We want to hire smart and ambitious people, therefore we prepared some recruitme
 # Challenge description
 Problem to solve: as we are fans of the game of thrones, we would like to have an application which can show the great houses of the Seven Kingdoms with a few members.
 
+# STEP 1
+
+# STEP 2
 
 
+# STEP 3
 
 # How to run application?
 
@@ -16,3 +20,5 @@ Problem to solve: as we are fans of the game of thrones, we would like to have a
 - make lint - check warnings and errors in code
 - make run - start application
 4) use Postman or other client for test server. Ping endpoint details - method: GET url: http://localhost:3999/api/v1/ping
+
+# Good luck!
