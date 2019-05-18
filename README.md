@@ -17,25 +17,22 @@ We need to add new endpoints for creation web service with simple endpoints. Bel
     - Response:
         ```
         {
-  "result": [{
-  	"clan": "Stark",
-  	"members": [
-  		"Arya", "Ned", "Sansa"
-  	]
-  },
-  {
-  	"clan": "Lannister",
-  	"members": [
-  		"Cersei", "Jaime", "Tyrion"
-  	]
-  }]
-}
+         "result": [{
+                	"clan": "Stark",
+  	                "members": ["Arya", "Ned", "Sansa"]
+                    },
+                    {
+  	                "clan": "Lannister",
+  	                "members": ["Cersei", "Jaime", "Tyrion"]
+                   }]
+        }
         ```
 - ( REST route: POST api/v1/clans) - the endpoint allow to add new great house (clan).
     - Request:
      ``` {
            "name": „string” - example ( Stark, Baratheon ) 
-         } ```
+         } 
+     ```
     - Response:
         - Ok or error( handling in second step )
 - ( REST route: POST api/v1/clans/:clan/members ) - the endpoint allow to assign new member to specific great house (clan).
@@ -43,7 +40,8 @@ We need to add new endpoints for creation web service with simple endpoints. Bel
       ```{
            "name": „string” - example ( Stark, Baratheon ) 
            "surname": „string” - example ( Stark, Baratheon )
-         } ```
+         } 
+      ```
     - Response:
         - Ok or error( handling in second step )
 - ( REST route: DELETE api/v1/clans/:name) - the endpoint allow to remove great house by name (clan).
