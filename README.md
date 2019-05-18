@@ -1,17 +1,18 @@
 # backend-recruitment-challenge
 We want to hire smart and ambitious people, therefore we prepared some recruitment challenge. It is important for us to see how you deal with this kind of task, which is very similar to what we are working on every day.
 
-# Challenge description
+## Challenge description
 Problem to solve: as we are fans of the game of thrones, we would like to have an application which can show the great houses of the Seven Kingdoms with a few members.
 
-# STEP 1
+### STEP 2 - create validations
 
-# STEP 2
+The endpoints should obviously validate data (you can use Joi package). You need to define which kind of objects your endpoints accept. In case when someone tries to send a request with not allowed data, then your validation should reject these request and return an error message.
 
+### STEP 3 - store data 
 
-# STEP 3
+In the final step, you should choose a place where data will be stored. You can store data in the database ( PostgreSQL, MySQL, MariaDB or NoSQL database MongoDB ) or in a txt file or in memory ( Memcached, Redis ). We recommend you to use PostgreSQL with npm package Sequelize, but this is your choice what you will use. 
 
-# How to run application?
+## How to run application?
 
 1) install node.js version >= 10
 2) clone repository
