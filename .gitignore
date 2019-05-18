@@ -58,3 +58,4 @@ typings/
 .next
 yarn.lock
 backend/dist
+dist
