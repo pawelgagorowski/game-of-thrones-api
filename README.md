@@ -17,14 +17,10 @@ We need to add new endpoints for creation web service with simple endpoints. Bel
     - Response:
         ```
         {
-         "result": [{
+         "result": {
                 	"clan": "Stark",
   	                "members": ["Arya", "Ned", "Sansa"]
-                    },
-                    {
-  	                "clan": "Lannister",
-  	                "members": ["Cersei", "Jaime", "Tyrion"]
-                   }]
+                   }     
         }
         ```
 - ( REST route: POST api/v1/clans) - the endpoint allow to add new great house (clan).
