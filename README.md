@@ -68,3 +68,5 @@ In the final step, you should choose a place where data will be stored. You can 
 4) use Postman or other client for test server. Ping endpoint details - method: GET url: http://localhost:3999/api/v1/ping
 
 # Good luck!
+
+# TIP: If you run into problems trying to start the application, pay extra close attention to the endpoint url.
