@@ -17,7 +17,7 @@ We need to add new endpoints for creation of REST service. Below you can find th
                   { "clan": "Baratheon",
   	                "members": ["Robert", "Stannis", "Renly"]
                   }]
-        }        
+        }
         ```
 - ( REST route: GET api/v1/clans/:clan/members ) - the endpoint return all members of specific clan of seven kingdoms.
                                                    :clan - specific great house(Stark, Lannister, Greyjoy ...)
@@ -25,15 +25,15 @@ We need to add new endpoints for creation of REST service. Below you can find th
         ```
         {
           "clan": "Stark",
-  	      "members": ["Arya", "Ned", "Sansa"]    
+  	      "members": ["Arya", "Ned", "Sansa"]
         }
         ```
 - ( REST route: POST api/v1/clans) - the endpoint allow to add new great house (clan).
     - Request:
-     ``` 
+     ```
          {
            "clan": „string” - example (Stark, Baratheon) 
-         } 
+         }
      ```
     - Response:
         - Ok or error(handling in second step )
@@ -44,7 +44,7 @@ We need to add new endpoints for creation of REST service. Below you can find th
          {
            "name": „string” - example ( Arya, Robert ) 
            "surname": „string” - example ( Stark, Baratheon )
-         } 
+         }
       ```
     - Response:
         - Ok or error( handling in second step )
@@ -59,16 +59,16 @@ We need to add new endpoints for creation of REST service. Below you can find th
 ### STEP 2 - validation
 
 The endpoints should obviously validate data (you can use Joi or ajv package).
-You need to define which data will be valid for your endpoints. 
+You need to define which data will be valid for your endpoints.
 When a user tries to send a request with not allowed data (e.g. invalid field name, type ), then your validation should reject this request and return an error message.
 
-### STEP 3 - database 
+### STEP 3 - database
 
-In the final step, you need to choose a data store. You can store data in the database ( PostgreSQL, MySQL, MariaDB or NoSQL database MongoDB ). We recommend you to use PostgreSQL with npm package Sequelize or TypeORM, but this is your choice what you will use. 
+In the final step, you need to choose a data store. You can store data in the database ( PostgreSQL, MySQL, MariaDB or NoSQL database MongoDB ). We recommend you to use PostgreSQL with npm package Sequelize or TypeORM, but this is your choice what you will use.
 
 ## How to run application?
 
-1) install node.js version >= 10
+1) install node.js version >= 10.13
 2) clone repository
 3) run following commands in command line:
 - make install - install missing npm packages
