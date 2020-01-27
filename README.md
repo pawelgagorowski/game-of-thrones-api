@@ -1,5 +1,5 @@
 # Description
-as a great fan of the game of thrones I created for the characters from this series
+as a great fan of the game of thrones I created API for the characters you like
 
 ###  endpoints
 
@@ -65,3 +65,5 @@ PostgreSQL +  Sequelize
 - make install - install missing npm packages
 - make lint - check warnings and errors in code
 - make run - start application
+
+## Enjoy
