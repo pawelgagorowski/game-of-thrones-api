@@ -1,0 +1,784 @@
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23382,"level":30,"msg":"Server environment: development","time":"2019-12-12T18:58:40.337Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23382,"level":30,"msg":"Api setup done","time":"2019-12-12T18:58:40.349Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23382,"level":30,"msg":"Added route: [GET] api/v1/ping","time":"2019-12-12T18:58:40.350Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23382,"level":30,"msg":"Starting server...","time":"2019-12-12T18:58:40.350Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23382,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T18:58:40.353Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23972,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:24:51.841Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23972,"level":30,"msg":"Api setup done","time":"2019-12-12T19:24:51.852Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23972,"level":30,"msg":"Added route: [GET] api/v1/ping","time":"2019-12-12T19:24:51.853Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23972,"level":30,"msg":"Starting server...","time":"2019-12-12T19:24:51.853Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23972,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:24:51.856Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24231,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:34:28.117Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24231,"level":30,"msg":"Api setup done","time":"2019-12-12T19:34:28.128Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24231,"level":30,"msg":"Added route: [GET] api/v1/ping","time":"2019-12-12T19:34:28.128Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24231,"level":30,"msg":"Starting server...","time":"2019-12-12T19:34:28.128Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24231,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:34:28.131Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24322,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:36:26.808Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24322,"level":30,"msg":"Api setup done","time":"2019-12-12T19:36:26.818Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24322,"level":30,"msg":"Added route: [GET] api/v1/ping","time":"2019-12-12T19:36:26.819Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24322,"level":30,"msg":"Starting server...","time":"2019-12-12T19:36:26.819Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24322,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:36:26.822Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24651,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:44:07.682Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24651,"level":30,"msg":"Api setup done","time":"2019-12-12T19:44:07.693Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24651,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T19:44:07.694Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24651,"level":30,"msg":"Starting server...","time":"2019-12-12T19:44:07.694Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24651,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:44:07.697Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24707,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:44:24.648Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24707,"level":30,"msg":"Api setup done","time":"2019-12-12T19:44:24.659Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24707,"level":30,"msg":"Added route: [GET] api/v1/ping","time":"2019-12-12T19:44:24.660Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24707,"level":30,"msg":"Starting server...","time":"2019-12-12T19:44:24.660Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24707,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:44:24.663Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24779,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:44:32.934Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24779,"level":30,"msg":"Api setup done","time":"2019-12-12T19:44:32.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24779,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T19:44:32.947Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24779,"level":30,"msg":"Starting server...","time":"2019-12-12T19:44:32.947Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24779,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:44:32.951Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24823,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:44:36.992Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24823,"level":30,"msg":"Api setup done","time":"2019-12-12T19:44:37.003Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24823,"level":30,"msg":"Added route: [GET] api/v1/ping","time":"2019-12-12T19:44:37.003Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24823,"level":30,"msg":"Starting server...","time":"2019-12-12T19:44:37.004Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24823,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:44:37.007Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24881,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:44:42.025Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24881,"level":30,"msg":"Api setup done","time":"2019-12-12T19:44:42.037Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24881,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T19:44:42.037Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24881,"level":30,"msg":"Starting server...","time":"2019-12-12T19:44:42.037Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24881,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:44:42.041Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24934,"level":30,"msg":"Server environment: development","time":"2019-12-12T19:44:45.266Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24934,"level":30,"msg":"Api setup done","time":"2019-12-12T19:44:45.277Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24934,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T19:44:45.277Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24934,"level":30,"msg":"Starting server...","time":"2019-12-12T19:44:45.277Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24934,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T19:44:45.281Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26342,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:44:44.080Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26342,"level":30,"msg":"Api setup done","time":"2019-12-12T20:44:44.092Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26342,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:44:44.092Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26342,"level":30,"msg":"Starting server...","time":"2019-12-12T20:44:44.093Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26342,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:44:44.096Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26447,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:45:23.742Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26447,"level":30,"msg":"Api setup done","time":"2019-12-12T20:45:23.753Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26447,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:45:23.754Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26447,"level":30,"msg":"Starting server...","time":"2019-12-12T20:45:23.754Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26447,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:45:23.758Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26518,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:45:30.343Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26518,"level":30,"msg":"Api setup done","time":"2019-12-12T20:45:30.354Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26518,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:45:30.355Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26518,"level":30,"msg":"Starting server...","time":"2019-12-12T20:45:30.355Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26518,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:45:30.358Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26597,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:45:53.551Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26597,"level":30,"msg":"Api setup done","time":"2019-12-12T20:45:53.562Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26597,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:45:53.563Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26597,"level":30,"msg":"Starting server...","time":"2019-12-12T20:45:53.563Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26597,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:45:53.567Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26678,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:47:34.644Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26678,"level":30,"msg":"Api setup done","time":"2019-12-12T20:47:34.655Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26678,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:47:34.656Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26678,"level":30,"msg":"Starting server...","time":"2019-12-12T20:47:34.656Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26678,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:47:34.660Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26726,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:47:42.436Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26726,"level":30,"msg":"Api setup done","time":"2019-12-12T20:47:42.447Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26726,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:47:42.448Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26726,"level":30,"msg":"Starting server...","time":"2019-12-12T20:47:42.448Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26726,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:47:42.451Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26870,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:48:42.354Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26870,"level":30,"msg":"Api setup done","time":"2019-12-12T20:48:42.366Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26870,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:48:42.366Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26870,"level":30,"msg":"Starting server...","time":"2019-12-12T20:48:42.366Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26870,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:48:42.370Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26945,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:49:07.912Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26945,"level":30,"msg":"Api setup done","time":"2019-12-12T20:49:07.923Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26945,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:49:07.924Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26945,"level":30,"msg":"Starting server...","time":"2019-12-12T20:49:07.924Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26945,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:49:07.928Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27000,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:49:32.020Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27000,"level":30,"msg":"Api setup done","time":"2019-12-12T20:49:32.032Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27000,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:49:32.032Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27000,"level":30,"msg":"Starting server...","time":"2019-12-12T20:49:32.033Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27000,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:49:32.036Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27066,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:49:53.450Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27066,"level":30,"msg":"Api setup done","time":"2019-12-12T20:49:53.462Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27066,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:49:53.463Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27066,"level":30,"msg":"Starting server...","time":"2019-12-12T20:49:53.463Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27066,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:49:53.467Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27401,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:56:09.107Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27401,"level":30,"msg":"Api setup done","time":"2019-12-12T20:56:09.119Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27401,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:56:09.120Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27401,"level":30,"msg":"Starting server...","time":"2019-12-12T20:56:09.120Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27401,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:56:09.123Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27401,"level":30,"msg":"middleware nr 1","time":"2019-12-12T20:56:13.159Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27472,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:57:04.177Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27472,"level":30,"msg":"Api setup done","time":"2019-12-12T20:57:04.189Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27472,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:57:04.189Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27472,"level":30,"msg":"Starting server...","time":"2019-12-12T20:57:04.190Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27472,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:57:04.193Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:57:09.847Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"Api setup done","time":"2019-12-12T20:57:09.858Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:57:09.859Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"Starting server...","time":"2019-12-12T20:57:09.859Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:57:09.862Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"middleware nr 1","time":"2019-12-12T20:57:11.725Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27502,"level":30,"msg":"middleware nr 2","time":"2019-12-12T20:57:11.725Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:57:55.816Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"Api setup done","time":"2019-12-12T20:57:55.827Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:57:55.827Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"Starting server...","time":"2019-12-12T20:57:55.828Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:57:55.831Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"middleware nr 1","time":"2019-12-12T20:57:59.136Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27575,"level":30,"msg":"middleware nr 2","time":"2019-12-12T20:57:59.136Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:58:29.928Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"Api setup done","time":"2019-12-12T20:58:29.939Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:58:29.939Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"Starting server...","time":"2019-12-12T20:58:29.939Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:58:29.943Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"middleware nr 1","time":"2019-12-12T20:58:36.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27629,"level":30,"msg":"middleware nr 2","time":"2019-12-12T20:58:36.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27700,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:58:55.279Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27700,"level":30,"msg":"Api setup done","time":"2019-12-12T20:58:55.291Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27700,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:58:55.291Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27700,"level":30,"msg":"Starting server...","time":"2019-12-12T20:58:55.291Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27700,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:58:55.295Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27750,"level":30,"msg":"Server environment: development","time":"2019-12-12T20:59:24.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27750,"level":30,"msg":"Api setup done","time":"2019-12-12T20:59:24.265Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27750,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-12T20:59:24.266Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27750,"level":30,"msg":"Starting server...","time":"2019-12-12T20:59:24.266Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27750,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-12T20:59:24.269Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7279,"level":30,"msg":"Server environment: development","time":"2019-12-15T19:34:19.448Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7279,"level":30,"msg":"Api setup done","time":"2019-12-15T19:34:19.464Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7279,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-15T19:34:19.465Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7279,"level":30,"msg":"Starting server...","time":"2019-12-15T19:34:19.465Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7279,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-15T19:34:19.469Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8683,"level":30,"msg":"Server environment: development","time":"2019-12-15T19:59:56.585Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8683,"level":30,"msg":"Api setup done","time":"2019-12-15T19:59:56.596Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8683,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-15T19:59:56.597Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8683,"level":30,"msg":"Starting server...","time":"2019-12-15T19:59:56.597Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8683,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-15T19:59:56.600Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":14820,"level":30,"msg":"Server environment: development","time":"2019-12-15T23:06:28.728Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":14820,"level":30,"msg":"Api setup done","time":"2019-12-15T23:06:28.740Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":14820,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-15T23:06:28.741Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":14820,"level":30,"msg":"Starting server...","time":"2019-12-15T23:06:28.741Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":14820,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-15T23:06:28.744Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15801,"level":30,"msg":"Server environment: development","time":"2019-12-15T23:08:27.743Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15801,"level":30,"msg":"Api setup done","time":"2019-12-15T23:08:27.754Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15801,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-15T23:08:27.755Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15801,"level":30,"msg":"Starting server...","time":"2019-12-15T23:08:27.755Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15801,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-15T23:08:27.758Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7559,"level":30,"msg":"Server environment: development","time":"2019-12-16T09:40:40.068Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7559,"level":30,"msg":"Api setup done","time":"2019-12-16T09:40:40.084Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7559,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T09:40:40.084Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7559,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T09:40:40.085Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7559,"level":30,"msg":"Starting server...","time":"2019-12-16T09:40:40.085Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":7559,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T09:40:40.089Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Server environment: development","time":"2019-12-16T09:44:45.540Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Api setup done","time":"2019-12-16T09:44:45.550Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T09:44:45.551Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T09:44:45.551Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T09:44:45.552Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Starting server...","time":"2019-12-16T09:44:45.552Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8395,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T09:44:45.555Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Server environment: development","time":"2019-12-16T09:47:07.748Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Api setup done","time":"2019-12-16T09:47:07.758Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T09:47:07.759Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T09:47:07.759Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T09:47:07.759Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T09:47:07.760Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Starting server...","time":"2019-12-16T09:47:07.760Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":8690,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T09:47:07.763Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:29:49.650Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Api setup done","time":"2019-12-16T10:29:49.661Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:29:49.661Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:29:49.662Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:29:49.662Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:29:49.663Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Starting server...","time":"2019-12-16T10:29:49.663Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":15464,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:29:49.666Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:50:48.853Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Api setup done","time":"2019-12-16T10:50:48.863Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:50:48.864Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:50:48.864Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:50:48.864Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:50:48.865Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Starting server...","time":"2019-12-16T10:50:48.865Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16303,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:50:48.868Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:51:24.658Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Api setup done","time":"2019-12-16T10:51:24.668Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:51:24.669Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:51:24.669Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:51:24.670Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:51:24.670Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Starting server...","time":"2019-12-16T10:51:24.670Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16461,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:51:24.673Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:51:30.595Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Api setup done","time":"2019-12-16T10:51:30.606Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:51:30.606Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:51:30.606Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:51:30.607Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:51:30.607Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Starting server...","time":"2019-12-16T10:51:30.607Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":16577,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:51:30.611Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:55:33.791Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Api setup done","time":"2019-12-16T10:55:33.801Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:55:33.801Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:55:33.802Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:55:33.802Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:55:33.803Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Starting server...","time":"2019-12-16T10:55:33.803Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17023,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:55:33.807Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:56:04.398Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Api setup done","time":"2019-12-16T10:56:04.409Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:56:04.410Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:56:04.410Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:56:04.411Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:56:04.411Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Starting server...","time":"2019-12-16T10:56:04.411Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17201,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:56:04.414Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:56:30.621Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Api setup done","time":"2019-12-16T10:56:30.631Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:56:30.632Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:56:30.632Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:56:30.633Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:56:30.633Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Starting server...","time":"2019-12-16T10:56:30.633Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17356,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:56:30.636Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:57:47.480Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Api setup done","time":"2019-12-16T10:57:47.490Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:57:47.491Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:57:47.491Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:57:47.492Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:57:47.492Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Starting server...","time":"2019-12-16T10:57:47.492Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17532,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:57:47.495Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:58:04.682Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Api setup done","time":"2019-12-16T10:58:04.694Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:58:04.694Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:58:04.694Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:58:04.695Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:58:04.695Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Starting server...","time":"2019-12-16T10:58:04.695Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17674,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:58:04.699Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Server environment: development","time":"2019-12-16T10:58:30.195Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Api setup done","time":"2019-12-16T10:58:30.207Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T10:58:30.208Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T10:58:30.208Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T10:58:30.208Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T10:58:30.208Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Starting server...","time":"2019-12-16T10:58:30.209Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":17813,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T10:58:30.212Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:04:27.267Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Api setup done","time":"2019-12-16T11:04:27.278Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:04:27.279Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:04:27.279Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:04:27.280Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:04:27.280Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Starting server...","time":"2019-12-16T11:04:27.280Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18179,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:04:27.283Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:04:42.307Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Api setup done","time":"2019-12-16T11:04:42.318Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:04:42.319Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:04:42.319Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:04:42.320Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:04:42.320Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Starting server...","time":"2019-12-16T11:04:42.321Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18316,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:04:42.324Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:06:00.311Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Api setup done","time":"2019-12-16T11:06:00.323Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:06:00.323Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:06:00.323Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:06:00.324Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:06:00.324Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Starting server...","time":"2019-12-16T11:06:00.324Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18517,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:06:00.328Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:06:25.473Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Api setup done","time":"2019-12-16T11:06:25.485Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:06:25.485Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:06:25.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:06:25.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:06:25.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Starting server...","time":"2019-12-16T11:06:25.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18698,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:06:25.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:06:32.476Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Api setup done","time":"2019-12-16T11:06:32.488Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:06:32.488Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:06:32.488Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:06:32.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:06:32.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Starting server...","time":"2019-12-16T11:06:32.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":18732,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:06:32.493Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:09:22.588Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Api setup done","time":"2019-12-16T11:09:22.600Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:09:22.601Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:09:22.601Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:09:22.602Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:09:22.602Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:09:22.602Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Starting server...","time":"2019-12-16T11:09:22.602Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19096,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:09:22.605Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:10:33.284Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Api setup done","time":"2019-12-16T11:10:33.296Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:10:33.297Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:10:33.297Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:10:33.298Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:10:33.298Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:10:33.298Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:10:33.298Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Starting server...","time":"2019-12-16T11:10:33.298Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19290,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:10:33.301Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:11:14.088Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Api setup done","time":"2019-12-16T11:11:14.100Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:11:14.100Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:11:14.101Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:11:14.101Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:11:14.102Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:11:14.102Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:11:14.102Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:11:14.102Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Starting server...","time":"2019-12-16T11:11:14.102Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19431,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:11:14.105Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:11:17.234Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Api setup done","time":"2019-12-16T11:11:17.247Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:11:17.248Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:11:17.248Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:11:17.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:11:17.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:11:17.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:11:17.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:11:17.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Starting server...","time":"2019-12-16T11:11:17.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19557,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:11:17.253Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:13:49.901Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Api setup done","time":"2019-12-16T11:13:49.913Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:13:49.914Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:13:49.914Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:13:49.914Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:13:49.915Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:13:49.915Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:13:49.915Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:13:49.915Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Starting server...","time":"2019-12-16T11:13:49.915Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19798,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:13:49.918Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:14:11.297Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Api setup done","time":"2019-12-16T11:14:11.311Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:14:11.312Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:14:11.312Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:14:11.312Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:14:11.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:14:11.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:14:11.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:14:11.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Starting server...","time":"2019-12-16T11:14:11.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":19938,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:14:11.316Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:14:36.800Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Api setup done","time":"2019-12-16T11:14:36.812Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:14:36.814Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:14:36.814Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:14:36.814Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:14:36.814Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:14:36.814Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:14:36.815Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:14:36.815Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Starting server...","time":"2019-12-16T11:14:36.815Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20110,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:14:36.818Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:14:48.206Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Api setup done","time":"2019-12-16T11:14:48.218Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:14:48.220Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:14:48.220Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:14:48.220Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:14:48.220Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:14:48.220Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:14:48.220Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:14:48.221Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Starting server...","time":"2019-12-16T11:14:48.221Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20237,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:14:48.224Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:19:15.278Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Api setup done","time":"2019-12-16T11:19:15.291Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:19:15.292Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:19:15.293Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:19:15.293Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:19:15.293Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:19:15.293Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:19:15.293Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:19:15.294Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Starting server...","time":"2019-12-16T11:19:15.294Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":20722,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:19:15.297Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:40:04.691Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Api setup done","time":"2019-12-16T11:40:04.703Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:40:04.705Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:40:04.705Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:40:04.705Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:40:04.706Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:40:04.706Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:40:04.706Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:40:04.706Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Starting server...","time":"2019-12-16T11:40:04.706Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23428,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:40:04.709Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:40:59.584Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Api setup done","time":"2019-12-16T11:40:59.597Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:40:59.598Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:40:59.599Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:40:59.599Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:40:59.599Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:40:59.599Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:40:59.599Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:40:59.600Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Starting server...","time":"2019-12-16T11:40:59.600Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23600,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:40:59.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:41:06.573Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Api setup done","time":"2019-12-16T11:41:06.586Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:41:06.587Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:41:06.587Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:41:06.587Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:41:06.588Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:41:06.588Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:41:06.588Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:41:06.588Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Starting server...","time":"2019-12-16T11:41:06.588Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23730,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:41:06.591Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:41:29.240Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Api setup done","time":"2019-12-16T11:41:29.253Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:41:29.254Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:41:29.254Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:41:29.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:41:29.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:41:29.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:41:29.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:41:29.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Starting server...","time":"2019-12-16T11:41:29.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":23854,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:41:29.258Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:43:10.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Api setup done","time":"2019-12-16T11:43:10.616Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:43:10.617Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:43:10.618Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:43:10.618Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:43:10.618Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:43:10.618Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:43:10.618Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:43:10.618Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Starting server...","time":"2019-12-16T11:43:10.619Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24507,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:43:10.622Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:43:18.636Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Api setup done","time":"2019-12-16T11:43:18.647Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:43:18.649Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:43:18.649Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:43:18.649Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:43:18.649Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:43:18.649Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:43:18.650Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:43:18.650Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Starting server...","time":"2019-12-16T11:43:18.650Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24540,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:43:18.653Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:45:18.914Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Api setup done","time":"2019-12-16T11:45:18.928Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:45:18.930Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:45:18.930Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:45:18.930Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:45:18.930Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:45:18.931Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:45:18.931Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:45:18.931Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Starting server...","time":"2019-12-16T11:45:18.931Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24754,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:45:18.934Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:45:22.669Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Api setup done","time":"2019-12-16T11:45:22.681Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:45:22.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:45:22.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:45:22.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:45:22.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:45:22.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:45:22.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:45:22.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Starting server...","time":"2019-12-16T11:45:22.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":24873,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:45:22.687Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:47:46.931Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Api setup done","time":"2019-12-16T11:47:46.944Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:47:46.945Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:47:46.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:47:46.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:47:46.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:47:46.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:47:46.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:47:46.946Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Starting server...","time":"2019-12-16T11:47:46.947Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25092,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:47:46.950Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:48:35.138Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Api setup done","time":"2019-12-16T11:48:35.150Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:48:35.151Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:48:35.151Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:48:35.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:48:35.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:48:35.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:48:35.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:48:35.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Starting server...","time":"2019-12-16T11:48:35.152Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25178,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:48:35.155Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:50:20.103Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Api setup done","time":"2019-12-16T11:50:20.116Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:50:20.118Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:50:20.118Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:50:20.118Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:50:20.118Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:50:20.118Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:50:20.119Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:50:20.119Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Starting server...","time":"2019-12-16T11:50:20.119Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25772,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:50:20.122Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:50:40.863Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Api setup done","time":"2019-12-16T11:50:40.877Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:50:40.879Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:50:40.879Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:50:40.879Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:50:40.879Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:50:40.880Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:50:40.880Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:50:40.880Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Starting server...","time":"2019-12-16T11:50:40.880Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":25906,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:50:40.883Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:51:15.182Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Api setup done","time":"2019-12-16T11:51:15.196Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:51:15.198Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:51:15.198Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:51:15.198Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:51:15.198Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:51:15.199Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:51:15.199Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:51:15.199Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Starting server...","time":"2019-12-16T11:51:15.199Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26037,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:51:15.202Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Server environment: development","time":"2019-12-16T11:51:29.271Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Api setup done","time":"2019-12-16T11:51:29.282Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T11:51:29.284Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T11:51:29.284Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T11:51:29.285Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T11:51:29.285Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T11:51:29.285Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T11:51:29.285Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T11:51:29.285Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Starting server...","time":"2019-12-16T11:51:29.285Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26101,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T11:51:29.288Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:08.949Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:08.963Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:08.964Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:08.965Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:08.965Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:08.965Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:08.965Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:08.965Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:08.965Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:08.966Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26821,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:08.969Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:14.236Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:14.249Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:14.250Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:14.250Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:14.251Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:14.251Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:14.251Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:14.251Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:14.251Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:14.251Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":26948,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:14.255Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:16.834Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:16.846Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:16.847Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:16.847Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:16.848Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:16.848Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:16.848Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:16.848Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:16.848Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:16.848Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27070,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:16.851Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:20.457Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:20.469Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:20.470Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:20.471Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:20.471Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:20.471Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:20.471Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:20.471Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:20.471Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:20.472Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27196,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:20.475Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:32.763Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:32.777Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:32.778Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:32.779Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:32.779Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:32.779Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:32.779Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:32.779Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:32.779Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:32.780Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27337,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:32.783Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:35.671Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:35.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:35.685Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:35.685Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:35.686Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:35.686Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:35.686Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:35.686Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:35.686Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:35.686Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27456,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:35.690Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:33:46.216Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Api setup done","time":"2019-12-16T12:33:46.228Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:33:46.229Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:33:46.229Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:46.229Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:33:46.229Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:33:46.230Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:33:46.230Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:33:46.230Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Starting server...","time":"2019-12-16T12:33:46.230Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27577,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:33:46.233Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:35:37.667Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Api setup done","time":"2019-12-16T12:35:37.681Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:35:37.682Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:35:37.682Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:35:37.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:35:37.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:35:37.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:35:37.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:35:37.683Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Starting server...","time":"2019-12-16T12:35:37.684Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":27819,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:35:37.688Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:39:13.326Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Api setup done","time":"2019-12-16T12:39:13.338Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:39:13.338Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:39:13.339Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:39:13.339Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:39:13.339Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:39:13.339Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:39:13.339Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:39:13.340Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Starting server...","time":"2019-12-16T12:39:13.340Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28282,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:39:13.344Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:40:34.589Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Api setup done","time":"2019-12-16T12:40:34.600Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:40:34.602Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:40:34.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:40:34.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:40:34.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:40:34.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:40:34.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:40:34.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Starting server...","time":"2019-12-16T12:40:34.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28443,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:40:34.608Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:44:07.476Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Api setup done","time":"2019-12-16T12:44:07.487Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:44:07.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:44:07.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:44:07.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:44:07.489Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:44:07.490Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:44:07.490Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:44:07.490Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Starting server...","time":"2019-12-16T12:44:07.490Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28709,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:44:07.494Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:44:14.587Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Api setup done","time":"2019-12-16T12:44:14.601Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:44:14.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:44:14.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:44:14.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:44:14.603Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:44:14.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:44:14.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:44:14.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Starting server...","time":"2019-12-16T12:44:14.604Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":28833,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:44:14.608Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:46:47.750Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Api setup done","time":"2019-12-16T12:46:47.762Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:46:47.763Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:46:47.763Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:46:47.764Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:46:47.764Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:46:47.764Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:46:47.764Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:46:47.764Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Starting server...","time":"2019-12-16T12:46:47.764Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29477,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:46:47.768Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Server environment: development","time":"2019-12-16T12:47:23.032Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Api setup done","time":"2019-12-16T12:47:23.043Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T12:47:23.044Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T12:47:23.045Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T12:47:23.045Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T12:47:23.045Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T12:47:23.045Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T12:47:23.046Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T12:47:23.046Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Starting server...","time":"2019-12-16T12:47:23.046Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":29651,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T12:47:23.050Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Server environment: development","time":"2019-12-16T13:05:20.300Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Api setup done","time":"2019-12-16T13:05:20.311Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T13:05:20.312Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T13:05:20.312Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T13:05:20.312Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T13:05:20.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T13:05:20.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T13:05:20.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T13:05:20.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Starting server...","time":"2019-12-16T13:05:20.313Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30244,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T13:05:20.317Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Server environment: development","time":"2019-12-16T13:06:55.893Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Api setup done","time":"2019-12-16T13:06:55.904Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T13:06:55.905Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T13:06:55.905Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T13:06:55.906Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T13:06:55.906Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T13:06:55.906Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T13:06:55.906Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T13:06:55.906Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Starting server...","time":"2019-12-16T13:06:55.906Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":30305,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T13:06:55.910Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Server environment: development","time":"2019-12-16T13:30:28.968Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Api setup done","time":"2019-12-16T13:30:28.982Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T13:30:28.983Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T13:30:28.983Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T13:30:28.983Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T13:30:28.984Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T13:30:28.984Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T13:30:28.984Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T13:30:28.984Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Starting server...","time":"2019-12-16T13:30:28.984Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31126,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T13:30:28.988Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Server environment: development","time":"2019-12-16T13:30:40.187Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Api setup done","time":"2019-12-16T13:30:40.199Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-16T13:30:40.200Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Starting server...","time":"2019-12-16T13:30:40.201Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":31269,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-16T13:30:40.205Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Server environment: development","time":"2019-12-18T10:09:50.522Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Api setup done","time":"2019-12-18T10:09:50.538Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-18T10:09:50.539Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-18T10:09:50.540Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-18T10:09:50.540Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-18T10:09:50.540Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-18T10:09:50.540Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-18T10:09:50.540Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-18T10:09:50.541Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Starting server...","time":"2019-12-18T10:09:50.541Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":5978,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-18T10:09:50.545Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Server environment: development","time":"2019-12-18T10:15:40.472Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Api setup done","time":"2019-12-18T10:15:40.484Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-18T10:15:40.485Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-18T10:15:40.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-18T10:15:40.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-18T10:15:40.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-18T10:15:40.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-18T10:15:40.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-18T10:15:40.486Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Starting server...","time":"2019-12-18T10:15:40.487Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":6838,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-18T10:15:40.491Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Server environment: development","time":"2019-12-18T23:43:26.507Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Api setup done","time":"2019-12-18T23:43:26.523Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [GET] /api/v1/ping","time":"2019-12-18T23:43:26.524Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [GET] /api/v1/clans","time":"2019-12-18T23:43:26.524Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [GET] /api/v1/clans/:clan/members","time":"2019-12-18T23:43:26.525Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [POST] /api/v1/clans","time":"2019-12-18T23:43:26.525Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [POST] /api/v1/clans/:clan/members","time":"2019-12-18T23:43:26.525Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:name","time":"2019-12-18T23:43:26.525Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Added route: [DELETE] /api/v1/clans/:clan/members/:name","time":"2019-12-18T23:43:26.525Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Starting server...","time":"2019-12-18T23:43:26.525Z","v":0}
+{"name":"Game of Thrones API","hostname":"pawel-gagor","pid":3476,"level":30,"msg":"Game of Thrones API server is listening on 3999","time":"2019-12-18T23:43:26.529Z","v":0}

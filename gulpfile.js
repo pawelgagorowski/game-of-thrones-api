@@ -64,7 +64,7 @@ async function watch() {
 }
 
 function runDev(done) {
-  return gulp.series(clean, make, lint, gulp.parallel(run, watch))(done);
+  return gulp.series(clean, make, gulp.parallel(run, watch))(done);
 }
 
 gulp.task('run', runDev);

@@ -28,10 +28,10 @@ export default class Server {
     log.info('Api setup done');
   };
 
-  addApiRoute = (method, uri, cbs)=> {
+  addApiRoute = (method, uri, ...cbs)=> {
     const info = `Added route: [${method}] ${uri}`;
 
-    this.apiInstance[method.toLowerCase()](uri, cbs);
+    this.apiInstance[method.toLowerCase()](uri, ...cbs);
     log.info(info);
   };
 
